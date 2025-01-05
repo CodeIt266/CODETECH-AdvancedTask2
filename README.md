@@ -43,3 +43,5 @@ Key Insights:-
 Vulnerability scanners play a crucial role in identifying security flaws in web applications, helping prevent exploitation by attackers. SQL injection is one of the most common and serious vulnerabilities, making early detection essential. Automating the scanning process improves efficiency and allows for comprehensive coverage of large applications. Detailed insights from the scanner help developers address specific vulnerabilities, leading to targeted fixes. Regular scanning and patching are vital for maintaining ongoing security, especially as web applications evolve in dynamic environments.
 
 OUTPUT OF THE TASK: 
+![WhatsApp Image 2025-01-05 at 12 14 08_125d8b6e](https://github.com/user-attachments/assets/bf4d1ff8-9ce0-4d40-859c-a0324e9df1e5)
+
